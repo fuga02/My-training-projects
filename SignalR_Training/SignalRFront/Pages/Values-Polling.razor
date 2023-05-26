@@ -1,0 +1,26 @@
+﻿@page "/values-v"
+@inject HttpClient Client
+<h3>Values</h3>
+@{
+    foreach (var value in values)
+    {
+        <h1>@value</h1>
+    }
+}
+@code {
+    private List<int>? values = new List<int>();
+    protected override async Task OnInitializedAsync()
+    {
+        LoadData();
+    }
+
+    private async Task LoadData()
+    {
+        while (true)
+        {
+            await Task.Delay(1000);
+            values = await Client.GetFromJsonAsync<List<int>>("Values");
+            StateHasChanged();
+        }
+    }
+}

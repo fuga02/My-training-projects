@@ -1,0 +1,65 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = SignalRFront
+build_property.RootNamespace = SignalRFront
+build_property.ProjectDir = D:\.Net projects\My training projects\SignalR_Training\SignalRFront\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\.Net projects\My training projects\SignalR_Training\SignalRFront
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/.Net projects/My training projects/SignalR_Training/SignalRFront/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.Net projects/My training projects/SignalR_Training/SignalRFront/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.Net projects/My training projects/SignalR_Training/SignalRFront/Pages/FetchData.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.Net projects/My training projects/SignalR_Training/SignalRFront/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.Net projects/My training projects/SignalR_Training/SignalRFront/Pages/Values-Polling.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmFsdWVzLVBvbGxpbmcucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.Net projects/My training projects/SignalR_Training/SignalRFront/Pages/Values.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmFsdWVzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.Net projects/My training projects/SignalR_Training/SignalRFront/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.Net projects/My training projects/SignalR_Training/SignalRFront/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.Net projects/My training projects/SignalR_Training/SignalRFront/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-7j7tain95w
+
+[D:/.Net projects/My training projects/SignalR_Training/SignalRFront/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-emdy4efcwj
+
+[D:/.Net projects/My training projects/SignalR_Training/SignalRFront/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.Net projects/My training projects/SignalR_Training/SignalRFront/Pages/_Host.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 

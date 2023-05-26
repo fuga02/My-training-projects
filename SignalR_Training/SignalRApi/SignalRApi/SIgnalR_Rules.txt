@@ -1,0 +1,8 @@
+﻿There are a few steps for using SignalR mehtod :)
+	1. Instal SignalR.Client package from Nuget Packages
+	2. Create ValueHub class(This class should be inhereted from Hub class)
+	3. ValueHub class  should be mapped.
+	4. ValueHub class should be registered
+	6. This class should be injected in contoller in order to use it
+	7. SignalR should be installed too in blazor :)
+

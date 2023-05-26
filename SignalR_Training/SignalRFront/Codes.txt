@@ -1,0 +1,16 @@
+﻿//Long polling mehtod
+
+ protected override async Task OnInitializedAsync()
+    {
+        LoadData();
+    }
+
+    private async Task LoadData()
+    {
+        while (true)
+        {
+            await Task.Delay(1000);
+            values = await Client.GetFromJsonAsync<List<int>>("Values");
+            StateHasChanged();
+        }
+    }
