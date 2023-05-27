@@ -13,18 +13,17 @@
     protected override async Task OnInitializedAsync()
     {
         values = await Client.GetFromJsonAsync<List<int>>("Values");
-         await ConnectToHub();
+       await ConnectToHub();
     }
 
     private async Task ConnectToHub()
     {
-        var connection = new HubConnectionBuilder().WithUrl("https://localhost:7204/api/Values/value-hub").Build();
-        connection.On<int>("NewValue", (int i) =>
+        var connection = new HubConnectionBuilder().WithUrl("https://localhost:7204/value-hub").Build();
+        connection.On("NewValue", (int i) =>
         {
-            values.Add(i);
+            values?.Add(i);
             StateHasChanged();
         });
-
-         //await connection.StartAsync();
+        await connection.StartAsync();
     }
 }

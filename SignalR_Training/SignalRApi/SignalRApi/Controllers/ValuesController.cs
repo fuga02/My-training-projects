@@ -4,11 +4,11 @@ using SignalRApi.Hubs;
 
 namespace SignalRApi.Controllers;
 
-[Route("api/[controller]")]
+[Route("/api/[controller]")]
 [ApiController]
 public class ValuesController : ControllerBase
 {
-    private  IHubContext<ValueHub> _hubContext;
+    private readonly IHubContext<ValueHub> _hubContext;
 
     public ValuesController(IHubContext<ValueHub> hubContext)
     {
@@ -32,5 +32,5 @@ public class ValuesController : ControllerBase
 
 public static class Main
 {
-    public static  List<int> ListOfInt = new List<int>() { 1, 2, 3 };
+    public static readonly List<int> ListOfInt = new List<int>() { 1, 2, 3 };
 }
