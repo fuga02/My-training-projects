@@ -1,0 +1,33 @@
+D:\.Net projects\70 lesson\70 lesson\bin\Debug\net7.0\appsettings.Development.json
+D:\.Net projects\70 lesson\70 lesson\bin\Debug\net7.0\appsettings.json
+D:\.Net projects\70 lesson\70 lesson\bin\Debug\net7.0\70 lesson.exe
+D:\.Net projects\70 lesson\70 lesson\bin\Debug\net7.0\70 lesson.deps.json
+D:\.Net projects\70 lesson\70 lesson\bin\Debug\net7.0\70 lesson.runtimeconfig.json
+D:\.Net projects\70 lesson\70 lesson\bin\Debug\net7.0\70 lesson.dll
+D:\.Net projects\70 lesson\70 lesson\bin\Debug\net7.0\70 lesson.pdb
+D:\.Net projects\70 lesson\70 lesson\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\.Net projects\70 lesson\70 lesson\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\.Net projects\70 lesson\70 lesson\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\.Net projects\70 lesson\70 lesson\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\.Net projects\70 lesson\70 lesson\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\.Net projects\70 lesson\70 lesson\obj\Debug\net7.0\70 lesson.csproj.AssemblyReference.cache
+D:\.Net projects\70 lesson\70 lesson\obj\Debug\net7.0\70 lesson.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net projects\70 lesson\70 lesson\obj\Debug\net7.0\70 lesson.AssemblyInfoInputs.cache
+D:\.Net projects\70 lesson\70 lesson\obj\Debug\net7.0\70 lesson.AssemblyInfo.cs
+D:\.Net projects\70 lesson\70 lesson\obj\Debug\net7.0\70 lesson.csproj.CoreCompileInputs.cache
+D:\.Net projects\70 lesson\70 lesson\obj\Debug\net7.0\70 lesson.MvcApplicationPartsAssemblyInfo.cs
+D:\.Net projects\70 lesson\70 lesson\obj\Debug\net7.0\70 lesson.MvcApplicationPartsAssemblyInfo.cache
+D:\.Net projects\70 lesson\70 lesson\obj\Debug\net7.0\staticwebassets\msbuild.70 lesson.Microsoft.AspNetCore.StaticWebAssets.props
+D:\.Net projects\70 lesson\70 lesson\obj\Debug\net7.0\staticwebassets\msbuild.build.70 lesson.props
+D:\.Net projects\70 lesson\70 lesson\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.70 lesson.props
+D:\.Net projects\70 lesson\70 lesson\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.70 lesson.props
+D:\.Net projects\70 lesson\70 lesson\obj\Debug\net7.0\staticwebassets.pack.json
+D:\.Net projects\70 lesson\70 lesson\obj\Debug\net7.0\staticwebassets.build.json
+D:\.Net projects\70 lesson\70 lesson\obj\Debug\net7.0\staticwebassets.development.json
+D:\.Net projects\70 lesson\70 lesson\obj\Debug\net7.0\scopedcss\bundle\70 lesson.styles.css
+D:\.Net projects\70 lesson\70 lesson\obj\Debug\net7.0\70 lesson.csproj.CopyComplete
+D:\.Net projects\70 lesson\70 lesson\obj\Debug\net7.0\70 lesson.dll
+D:\.Net projects\70 lesson\70 lesson\obj\Debug\net7.0\refint\70 lesson.dll
+D:\.Net projects\70 lesson\70 lesson\obj\Debug\net7.0\70 lesson.pdb
+D:\.Net projects\70 lesson\70 lesson\obj\Debug\net7.0\70 lesson.genruntimeconfig.cache
+D:\.Net projects\70 lesson\70 lesson\obj\Debug\net7.0\ref\70 lesson.dll

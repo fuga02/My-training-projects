@@ -1,0 +1,17 @@
+D:\.Net projects\Example\Example\bin\Debug\net7.0\Example.exe
+D:\.Net projects\Example\Example\bin\Debug\net7.0\Example.deps.json
+D:\.Net projects\Example\Example\bin\Debug\net7.0\Example.runtimeconfig.json
+D:\.Net projects\Example\Example\bin\Debug\net7.0\Example.dll
+D:\.Net projects\Example\Example\bin\Debug\net7.0\Example.pdb
+D:\.Net projects\Example\Example\obj\Debug\net7.0\Example.csproj.AssemblyReference.cache
+D:\.Net projects\Example\Example\obj\Debug\net7.0\Example.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net projects\Example\Example\obj\Debug\net7.0\Example.AssemblyInfoInputs.cache
+D:\.Net projects\Example\Example\obj\Debug\net7.0\Example.AssemblyInfo.cs
+D:\.Net projects\Example\Example\obj\Debug\net7.0\Example.csproj.CoreCompileInputs.cache
+D:\.Net projects\Example\Example\obj\Debug\net7.0\Example.dll
+D:\.Net projects\Example\Example\obj\Debug\net7.0\refint\Example.dll
+D:\.Net projects\Example\Example\obj\Debug\net7.0\Example.pdb
+D:\.Net projects\Example\Example\obj\Debug\net7.0\Example.genruntimeconfig.cache
+D:\.Net projects\Example\Example\obj\Debug\net7.0\ref\Example.dll
+D:\.Net projects\Example\Example\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\.Net projects\Example\Example\obj\Debug\net7.0\Example.csproj.CopyComplete

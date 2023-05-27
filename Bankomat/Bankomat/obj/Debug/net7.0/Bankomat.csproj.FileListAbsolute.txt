@@ -1,0 +1,15 @@
+D:\.Net projects\Bankomat\Bankomat\bin\Debug\net7.0\Bankomat.exe
+D:\.Net projects\Bankomat\Bankomat\bin\Debug\net7.0\Bankomat.deps.json
+D:\.Net projects\Bankomat\Bankomat\bin\Debug\net7.0\Bankomat.runtimeconfig.json
+D:\.Net projects\Bankomat\Bankomat\bin\Debug\net7.0\Bankomat.dll
+D:\.Net projects\Bankomat\Bankomat\bin\Debug\net7.0\Bankomat.pdb
+D:\.Net projects\Bankomat\Bankomat\obj\Debug\net7.0\Bankomat.csproj.AssemblyReference.cache
+D:\.Net projects\Bankomat\Bankomat\obj\Debug\net7.0\Bankomat.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net projects\Bankomat\Bankomat\obj\Debug\net7.0\Bankomat.AssemblyInfoInputs.cache
+D:\.Net projects\Bankomat\Bankomat\obj\Debug\net7.0\Bankomat.AssemblyInfo.cs
+D:\.Net projects\Bankomat\Bankomat\obj\Debug\net7.0\Bankomat.csproj.CoreCompileInputs.cache
+D:\.Net projects\Bankomat\Bankomat\obj\Debug\net7.0\Bankomat.dll
+D:\.Net projects\Bankomat\Bankomat\obj\Debug\net7.0\refint\Bankomat.dll
+D:\.Net projects\Bankomat\Bankomat\obj\Debug\net7.0\Bankomat.pdb
+D:\.Net projects\Bankomat\Bankomat\obj\Debug\net7.0\Bankomat.genruntimeconfig.cache
+D:\.Net projects\Bankomat\Bankomat\obj\Debug\net7.0\ref\Bankomat.dll

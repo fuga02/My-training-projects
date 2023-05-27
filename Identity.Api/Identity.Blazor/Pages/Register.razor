@@ -1,0 +1,55 @@
+﻿@page "/register"
+@inject HttpClient Client
+<h3>Register</h3>
+
+@using System.Text.RegularExpressions
+@using System.ComponentModel.DataAnnotations
+@using Identity.Blazor.Models
+  
+<MudGrid>
+    <MudItem xs="12" sm="7">
+        <MudPaper Class="pa-4">
+            <MudForm @ref="form" @bind-IsValid="@success" @bind-Errors="@errors">
+                <MudTextField T="string" Label="Name" Required="true" @bind-Value="model.FirstName" RequiredError="Name is required!" />
+                <MudTextField T="string" Label="Username" Required="true" @bind-Value = "model.Username" RequiredError="User name is required!" />
+                <MudTextField T="string" Label="Email" Required="true" @bind-Value="model.Email" RequiredError="Email is required!"
+                              Validation="@(new EmailAddressAttribute() {ErrorMessage = "The email address is invalid"})" />
+                <MudTextField T="string" Label="Password" @bind-Value="model.Password" HelperText="Choose a strong password" @ref="pwField1"
+                              InputType="InputType.Password"
+                              RequiredError="Password is required!" />
+                <MudTextField T="string"
+                              Label="Password" HelperText="Repeat the password" InputType="InputType.Password" @bind-Value="model.ConfirmPassword"
+                              Validation="@(new Func<string, string>(PasswordMatch))" />
+                <div class="d-flex">
+                </div>
+                <div class="d-flex align-center justify-space-between">
+                    <MudButton Variant="Variant.Filled" Color="Color.Primary" Disabled="@(!success)" OnClick="async () => await RegisterUser()"  Class="ml-auto">Register</MudButton>
+                </div>
+            </MudForm>
+        </MudPaper>
+    </MudItem>
+</MudGrid>
+
+
+@code {
+    bool success;
+    string[] errors = { };
+    MudTextField<string> pwField1;
+    MudForm form;
+
+    private UserDto model = new UserDto();
+
+    private string PasswordMatch(string arg)
+    {
+        if (pwField1.Value != arg)
+            return "Passwords don't match";
+        return null;
+    }
+
+
+    private async Task RegisterUser()
+    {
+        var response =  await Client.PostAsJsonAsync("/signUp", model);
+    }
+
+}

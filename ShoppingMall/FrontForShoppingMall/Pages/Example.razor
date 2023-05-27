@@ -1,0 +1,41 @@
+﻿@page "/example"
+@using FrontForShoppingMall.Models
+<h3>hello G'aybulla</h3>
+<button  @onclick="Smth" class="btn btn-primary">Change</button>
+
+
+@{
+    foreach (var category in _categories)
+    {
+        <h1>name : @category.Name</h1>
+    }
+}
+
+
+<form class="form-control" >
+    <input type="text" @bind="CategoryName" placeholder="Name" />
+    <button type="button" @onclick="AddCategory">Add</button>
+</form>
+
+
+
+@code {
+    string? CategoryName { get; set; }
+    List<CategoryDto> _categories = new();
+    async Task Smth()
+    {
+        var client = new  HttpClient();
+        _categories = await client.GetFromJsonAsync<List<CategoryDto>>("https://localhost:7120/api/Categories");
+        StateHasChanged();
+    }
+    async Task AddCategory()
+    {
+        var categoryDto = new CategoryModel
+        {
+            Name = CategoryName!
+        };
+        var client = new HttpClient();
+        await client.PostAsJsonAsync("https://localhost:7120/api/Categories",categoryDto);
+    }
+
+}

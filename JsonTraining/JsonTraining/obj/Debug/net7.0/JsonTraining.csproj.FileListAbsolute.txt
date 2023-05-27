@@ -1,0 +1,17 @@
+D:\.Net projects\JsonTraining\JsonTraining\bin\Debug\net7.0\JsonTraining.exe
+D:\.Net projects\JsonTraining\JsonTraining\bin\Debug\net7.0\JsonTraining.deps.json
+D:\.Net projects\JsonTraining\JsonTraining\bin\Debug\net7.0\JsonTraining.runtimeconfig.json
+D:\.Net projects\JsonTraining\JsonTraining\bin\Debug\net7.0\JsonTraining.dll
+D:\.Net projects\JsonTraining\JsonTraining\bin\Debug\net7.0\JsonTraining.pdb
+D:\.Net projects\JsonTraining\JsonTraining\obj\Debug\net7.0\JsonTraining.csproj.AssemblyReference.cache
+D:\.Net projects\JsonTraining\JsonTraining\obj\Debug\net7.0\JsonTraining.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net projects\JsonTraining\JsonTraining\obj\Debug\net7.0\JsonTraining.AssemblyInfoInputs.cache
+D:\.Net projects\JsonTraining\JsonTraining\obj\Debug\net7.0\JsonTraining.AssemblyInfo.cs
+D:\.Net projects\JsonTraining\JsonTraining\obj\Debug\net7.0\JsonTraining.csproj.CoreCompileInputs.cache
+D:\.Net projects\JsonTraining\JsonTraining\obj\Debug\net7.0\JsonTraining.dll
+D:\.Net projects\JsonTraining\JsonTraining\obj\Debug\net7.0\refint\JsonTraining.dll
+D:\.Net projects\JsonTraining\JsonTraining\obj\Debug\net7.0\JsonTraining.pdb
+D:\.Net projects\JsonTraining\JsonTraining\obj\Debug\net7.0\JsonTraining.genruntimeconfig.cache
+D:\.Net projects\JsonTraining\JsonTraining\obj\Debug\net7.0\ref\JsonTraining.dll
+D:\.Net projects\JsonTraining\JsonTraining\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\.Net projects\JsonTraining\JsonTraining\obj\Debug\net7.0\JsonTraining.csproj.CopyComplete

@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\.Net projects\\Identity.Api\\Identity.Blazor\\bin\\Debug\\net6.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "D:\\.Net projects\\Identity.Api\\Identity.Blazor\\obj\\Debug\\net6.0\\build-gz\\ioLhXoMs.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "D:\\.Net projects\\Identity.Api\\Identity.Blazor\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\.Net projects\\Identity.Api\\Identity.Blazor\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "D:\\.Net projects\\Identity.Api\\Identity.Blazor\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Identity.Blazor.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Identity.Blazor.props",
+      "PackagePath": "build\\Identity.Blazor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Identity.Blazor.props",
+      "PackagePath": "buildMultiTargeting\\Identity.Blazor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Identity.Blazor.props",
+      "PackagePath": "buildTransitive\\Identity.Blazor.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

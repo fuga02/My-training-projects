@@ -1,0 +1,15 @@
+D:\.Net projects\JsonExample\JsonExample\obj\Debug\net7.0\JsonExample.csproj.AssemblyReference.cache
+D:\.Net projects\JsonExample\JsonExample\obj\Debug\net7.0\JsonExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net projects\JsonExample\JsonExample\obj\Debug\net7.0\JsonExample.AssemblyInfoInputs.cache
+D:\.Net projects\JsonExample\JsonExample\obj\Debug\net7.0\JsonExample.AssemblyInfo.cs
+D:\.Net projects\JsonExample\JsonExample\obj\Debug\net7.0\JsonExample.csproj.CoreCompileInputs.cache
+D:\.Net projects\JsonExample\JsonExample\bin\Debug\net7.0\JsonExample.exe
+D:\.Net projects\JsonExample\JsonExample\bin\Debug\net7.0\JsonExample.deps.json
+D:\.Net projects\JsonExample\JsonExample\bin\Debug\net7.0\JsonExample.runtimeconfig.json
+D:\.Net projects\JsonExample\JsonExample\bin\Debug\net7.0\JsonExample.dll
+D:\.Net projects\JsonExample\JsonExample\bin\Debug\net7.0\JsonExample.pdb
+D:\.Net projects\JsonExample\JsonExample\obj\Debug\net7.0\JsonExample.dll
+D:\.Net projects\JsonExample\JsonExample\obj\Debug\net7.0\refint\JsonExample.dll
+D:\.Net projects\JsonExample\JsonExample\obj\Debug\net7.0\JsonExample.pdb
+D:\.Net projects\JsonExample\JsonExample\obj\Debug\net7.0\JsonExample.genruntimeconfig.cache
+D:\.Net projects\JsonExample\JsonExample\obj\Debug\net7.0\ref\JsonExample.dll
