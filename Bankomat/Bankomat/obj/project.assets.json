@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\.Net projects\\Bankomat\\Bankomat\\Bankomat.csproj",
+      "projectUniqueName": "D:\\.Net projects\\My training projects\\Bankomat\\Bankomat\\Bankomat.csproj",
       "projectName": "Bankomat",
-      "projectPath": "D:\\.Net projects\\Bankomat\\Bankomat\\Bankomat.csproj",
+      "projectPath": "D:\\.Net projects\\My training projects\\Bankomat\\Bankomat\\Bankomat.csproj",
       "packagesPath": "C:\\Users\\fuga_02\\.nuget\\packages\\",
-      "outputPath": "D:\\.Net projects\\Bankomat\\Bankomat\\obj\\",
+      "outputPath": "D:\\.Net projects\\My training projects\\Bankomat\\Bankomat\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
