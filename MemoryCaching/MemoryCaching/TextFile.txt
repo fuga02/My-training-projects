@@ -1,0 +1,14 @@
+﻿  public bool TryGetValue(string key, out object? value)
+    {
+
+ if (CacheDictionary.ContainsKey(key)!)
+        {
+            value = CacheDictionary[key];
+            return true;
+        }
+        else
+        {
+            value = null;
+            return false;
+        }
+    }
