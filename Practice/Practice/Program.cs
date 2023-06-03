@@ -1,19 +1,31 @@
 ﻿
-Console.WriteLine();
+Dictionary<string, string> map = new Dictionary<string, string>();
+map.Add("maktab","school");
+map.Add("maktab1","school1");
+map.Add("maktab2","school2");
 
-var nimadir = new Voris();
-nimadir.Display();
-abstract class Tayanch
-{
-    public abstract void Display();
-}
+Check(map);
 
- class Voris : Tayanch
+
+
+
+
+void Check(Dictionary<string,string> dictionaries)
 {
-    public override void Display()
+    Console.Write("Sozni kiriting >>>");
+    string word = Console.ReadLine()!;
+    if (dictionaries.ContainsValue(word))
     {
-        Console.WriteLine("Bu voris");
+        foreach (var key in dictionaries.Keys)
+        {
+            if (dictionaries[key] == word)
+            {
+                Console.WriteLine($"key : {key}");
+            }
+        }
+    }
+    else
+    {
+        Console.WriteLine("bunday qiymat yuq");
     }
 }
-
-
