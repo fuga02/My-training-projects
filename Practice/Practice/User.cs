@@ -1,6 +1,6 @@
-﻿public class User
-{
-    public string Name;
-    public int Age;
-    public string WorkPlace;
+﻿public class User{
+
+    public string Username { get; set; } 
+    public string Password { get; set; }
+
 }
