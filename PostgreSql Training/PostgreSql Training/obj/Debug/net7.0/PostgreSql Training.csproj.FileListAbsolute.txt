@@ -1,0 +1,35 @@
+D:\.Net projects\My training projects\PostgreSql Training\PostgreSql Training\bin\Debug\net7.0\PostgreSql Training.exe
+D:\.Net projects\My training projects\PostgreSql Training\PostgreSql Training\bin\Debug\net7.0\PostgreSql Training.deps.json
+D:\.Net projects\My training projects\PostgreSql Training\PostgreSql Training\bin\Debug\net7.0\PostgreSql Training.runtimeconfig.json
+D:\.Net projects\My training projects\PostgreSql Training\PostgreSql Training\bin\Debug\net7.0\PostgreSql Training.dll
+D:\.Net projects\My training projects\PostgreSql Training\PostgreSql Training\bin\Debug\net7.0\PostgreSql Training.pdb
+D:\.Net projects\My training projects\PostgreSql Training\PostgreSql Training\bin\Debug\net7.0\Humanizer.dll
+D:\.Net projects\My training projects\PostgreSql Training\PostgreSql Training\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\.Net projects\My training projects\PostgreSql Training\PostgreSql Training\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\.Net projects\My training projects\PostgreSql Training\PostgreSql Training\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\.Net projects\My training projects\PostgreSql Training\PostgreSql Training\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\.Net projects\My training projects\PostgreSql Training\PostgreSql Training\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\.Net projects\My training projects\PostgreSql Training\PostgreSql Training\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+D:\.Net projects\My training projects\PostgreSql Training\PostgreSql Training\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\.Net projects\My training projects\PostgreSql Training\PostgreSql Training\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+D:\.Net projects\My training projects\PostgreSql Training\PostgreSql Training\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\.Net projects\My training projects\PostgreSql Training\PostgreSql Training\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\.Net projects\My training projects\PostgreSql Training\PostgreSql Training\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+D:\.Net projects\My training projects\PostgreSql Training\PostgreSql Training\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\.Net projects\My training projects\PostgreSql Training\PostgreSql Training\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\.Net projects\My training projects\PostgreSql Training\PostgreSql Training\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+D:\.Net projects\My training projects\PostgreSql Training\PostgreSql Training\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\.Net projects\My training projects\PostgreSql Training\PostgreSql Training\bin\Debug\net7.0\Npgsql.dll
+D:\.Net projects\My training projects\PostgreSql Training\PostgreSql Training\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\.Net projects\My training projects\PostgreSql Training\PostgreSql Training\bin\Debug\net7.0\System.CodeDom.dll
+D:\.Net projects\My training projects\PostgreSql Training\PostgreSql Training\obj\Debug\net7.0\PostgreSql Training.csproj.AssemblyReference.cache
+D:\.Net projects\My training projects\PostgreSql Training\PostgreSql Training\obj\Debug\net7.0\PostgreSql Training.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net projects\My training projects\PostgreSql Training\PostgreSql Training\obj\Debug\net7.0\PostgreSql Training.AssemblyInfoInputs.cache
+D:\.Net projects\My training projects\PostgreSql Training\PostgreSql Training\obj\Debug\net7.0\PostgreSql Training.AssemblyInfo.cs
+D:\.Net projects\My training projects\PostgreSql Training\PostgreSql Training\obj\Debug\net7.0\PostgreSql Training.csproj.CoreCompileInputs.cache
+D:\.Net projects\My training projects\PostgreSql Training\PostgreSql Training\obj\Debug\net7.0\PostgreSql Training.csproj.CopyComplete
+D:\.Net projects\My training projects\PostgreSql Training\PostgreSql Training\obj\Debug\net7.0\PostgreSql Training.dll
+D:\.Net projects\My training projects\PostgreSql Training\PostgreSql Training\obj\Debug\net7.0\refint\PostgreSql Training.dll
+D:\.Net projects\My training projects\PostgreSql Training\PostgreSql Training\obj\Debug\net7.0\PostgreSql Training.pdb
+D:\.Net projects\My training projects\PostgreSql Training\PostgreSql Training\obj\Debug\net7.0\PostgreSql Training.genruntimeconfig.cache
+D:\.Net projects\My training projects\PostgreSql Training\PostgreSql Training\obj\Debug\net7.0\ref\PostgreSql Training.dll

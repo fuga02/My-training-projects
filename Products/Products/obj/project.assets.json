@@ -3918,11 +3918,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\.Net projects\\Products\\Products\\Products.csproj",
+      "projectUniqueName": "D:\\.Net projects\\My training projects\\Products\\Products\\Products.csproj",
       "projectName": "Products",
-      "projectPath": "D:\\.Net projects\\Products\\Products\\Products.csproj",
+      "projectPath": "D:\\.Net projects\\My training projects\\Products\\Products\\Products.csproj",
       "packagesPath": "C:\\Users\\fuga_02\\.nuget\\packages\\",
-      "outputPath": "D:\\.Net projects\\Products\\Products\\obj\\",
+      "outputPath": "D:\\.Net projects\\My training projects\\Products\\Products\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
