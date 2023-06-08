@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zV8W3wcm/SqeYhoTlGXBn9rW8NuL+KAm+SYfzdgRhFDaHw45IRGJfYwK+n66D0ywGUOwR2ID/IZ+1CfbbbMhng==",
+  "dgSpecHash": "QRGtGIbjMlokPiYEw4Tz9ZKLP9PvLiQfsi54poL3zz6JyP3rp/C1Q7pNC+mkbSn41pyR1tG8nHOJc81Idb+dBw==",
   "success": true,
-  "projectFilePath": "D:\\.Net projects\\Products\\Products\\Products.csproj",
+  "projectFilePath": "D:\\.Net projects\\My training projects\\Products\\Products\\Products.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fuga_02\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\fuga_02\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
