@@ -9,53 +9,53 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = FrontForShoppingMall
 build_property.RootNamespace = FrontForShoppingMall
-build_property.ProjectDir = D:\.Net projects\ShoppingMall\FrontForShoppingMall\
+build_property.ProjectDir = D:\.Net projects\My training projects\ShoppingMall\FrontForShoppingMall\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\.Net projects\ShoppingMall\FrontForShoppingMall
+build_property.MSBuildProjectDirectory = D:\.Net projects\My training projects\ShoppingMall\FrontForShoppingMall
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/.Net projects/ShoppingMall/FrontForShoppingMall/App.razor]
+[D:/.Net projects/My training projects/ShoppingMall/FrontForShoppingMall/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/.Net projects/ShoppingMall/FrontForShoppingMall/Pages/Counter.razor]
+[D:/.Net projects/My training projects/ShoppingMall/FrontForShoppingMall/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/.Net projects/ShoppingMall/FrontForShoppingMall/Pages/Example.razor]
+[D:/.Net projects/My training projects/ShoppingMall/FrontForShoppingMall/Pages/Example.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXhhbXBsZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/.Net projects/ShoppingMall/FrontForShoppingMall/Pages/FetchData.razor]
+[D:/.Net projects/My training projects/ShoppingMall/FrontForShoppingMall/Pages/FetchData.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/.Net projects/ShoppingMall/FrontForShoppingMall/Pages/Index.razor]
+[D:/.Net projects/My training projects/ShoppingMall/FrontForShoppingMall/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/.Net projects/ShoppingMall/FrontForShoppingMall/Shared/SurveyPrompt.razor]
+[D:/.Net projects/My training projects/ShoppingMall/FrontForShoppingMall/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/.Net projects/ShoppingMall/FrontForShoppingMall/_Imports.razor]
+[D:/.Net projects/My training projects/ShoppingMall/FrontForShoppingMall/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/.Net projects/ShoppingMall/FrontForShoppingMall/Shared/MainLayout.razor]
+[D:/.Net projects/My training projects/ShoppingMall/FrontForShoppingMall/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-0meqptp5u5
 
-[D:/.Net projects/ShoppingMall/FrontForShoppingMall/Shared/NavMenu.razor]
+[D:/.Net projects/My training projects/ShoppingMall/FrontForShoppingMall/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-57wlsgtfxe
 
-[D:/.Net projects/ShoppingMall/FrontForShoppingMall/Pages/Error.cshtml]
+[D:/.Net projects/My training projects/ShoppingMall/FrontForShoppingMall/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/.Net projects/ShoppingMall/FrontForShoppingMall/Pages/_Host.cshtml]
+[D:/.Net projects/My training projects/ShoppingMall/FrontForShoppingMall/Pages/_Host.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
