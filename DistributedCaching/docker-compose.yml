@@ -1,0 +1,30 @@
+﻿version: '3.7'
+services:
+  api:
+     image: "my_training"
+     container_name: "my_training"
+     build:
+       context: .
+       dockerfile: Dockerfile
+     ports:
+       - '8090:80'
+  api1:
+     image: "my_training"
+     container_name: "my_training_1"
+     build:
+       context: .
+       dockerfile: Dockerfile
+     ports:
+       - '8091:80'
+  
+  redis:
+     image: redis:6.2-alpine
+     restart: always
+     ports:
+     -  '6379:6379'
+     volumes:
+     - cache:/data 
+volumes:
+    cache:
+      driver: local
+     
