@@ -1,0 +1,19 @@
+﻿version: '3.7'
+services:
+  question:
+    image: question
+    container_name: question
+    build:
+        context: .
+        dockerfile: Dockerfile
+    ports:
+        - '7007:80' 
+  mongodb:
+    image: mongo:latest
+    container_name: mongodb
+    restart: always
+    ports:
+      - 27017:27017 
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: mongo_db
+      MONGO_INITDB_ROOT_PASSWORD: asd12345  
